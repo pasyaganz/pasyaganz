@@ -22,7 +22,7 @@
 ## ```FOLLOW ALL SOSIALMEDIA ME```
 <p align="center">
 <a href="https://instagram.com/_off.pasya"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-<a href="https://wa.me/62895334402456"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/62882016412354"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ## ```MY GROUP SUPPORT```
